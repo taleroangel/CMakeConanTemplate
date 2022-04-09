@@ -1,0 +1,6 @@
+/**
+ * cmake configuration variables
+ */
+
+#define PROJNAME_VERSION_MAJOR @PROJNAME_VERSION_MAJOR@
+#define PROJNAME_VERSION_MINOR @PROJNAME_VERSION_MINOR@
